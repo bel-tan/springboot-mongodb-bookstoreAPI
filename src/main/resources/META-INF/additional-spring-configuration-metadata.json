@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "hex256secretkey",
+  "type": "java.lang.String",
+  "description": "Hex 256 Secret Key for token'"
+}]}
