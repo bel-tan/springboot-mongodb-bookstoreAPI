@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+       uri: mongodb+srv://bookstoreAdmin:bookstoreAdmin@bookstore.ojtgoih.mongodb.net/test
+       database: bookstore
